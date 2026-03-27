@@ -17,7 +17,7 @@ The system provides predictions through both a Flask API and a Streamlit web int
 * CNN-based model trained on plant leaf dataset
 * Input size: 225x225
 * Image preprocessing with normalization
-* Output: Probability scores for each class
+* Output: Nme  for each class it belong to 
 
 ---
 
@@ -50,7 +50,7 @@ plant-disease-detection/
 │── requirements.txt
 │── templates/
 │── uploads/
-│── assets/
+│─static/
 │── README.md
 ```
 
